@@ -1,1 +1,1 @@
-# BindingAffinity_KAN
+This project focuses on predicting binding affinity for drug discovery using a novel Kolmogorov-Arnold Network (KAN) architecture. The model leverages ECFP8b molecular fingerprints to encode chemical structures, ensuring efficient and scalable predictions. This repository includes the code, dataset, and results showcasing the effectiveness of the KAN framework.
